@@ -1,0 +1,16 @@
+
+body {
+  text-align: center;
+}
+span {
+  color: #bece35; font-style: italic; font-weidth: bold;
+}
+img {
+  width: 200px;
+
+}
+p {
+  font-weight: bold;
+  font-style: italic;
+  margin: 20 0 20 0;
+}
